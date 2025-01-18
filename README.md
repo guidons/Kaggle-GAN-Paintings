@@ -1,5 +1,7 @@
 # Generative Adversarial Network (GAN) - Monet Painting Generation (CU Boulder MS-DS DTSA-5511)
 
+![Sample image](sample_image.png)
+
 ## Overview
 This notebook contains the code for the following Kaggle competition: Jang, A., Uzsoy, A. S., & Culliton, P. (2020). *I’m something of a painter myself*. Kaggle. https://kaggle.com/competitions/gan-getting-started.
 
